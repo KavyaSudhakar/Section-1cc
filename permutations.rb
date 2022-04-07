@@ -1,0 +1,1 @@
+p "cloud".chars.permutation.map &:join 
